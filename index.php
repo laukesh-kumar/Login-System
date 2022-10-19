@@ -39,7 +39,7 @@
     </ul>
   </div>
 </nav>
-<h1><center>Welcome To The Techniqual World</center></h1>
+<h1><center>Welcome To The Technical World</center></h1>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
